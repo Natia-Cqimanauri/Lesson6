@@ -1,0 +1,23 @@
+/* section styles */
+.conteiner {
+    width: 1336px;
+    margin: 0 auto;
+}
+.text-block {
+    width: 716px;
+    margin: 0 auto;
+    text-align: center;
+}
+.section-bg {
+    padding: 80px 52px 0 52px;
+}
+.text01 {
+    margin-top:  4px; 
+    margin-bottom: 16px;
+     font-size :45px;
+    font: color #282828;
+
+} 
+.text02{
+    margin-bottom: 48px;
+}
